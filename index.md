@@ -1,4 +1,4 @@
-## Teste dein Umweltbewusstsein
+## Teste dein Umweltbewusstseinn
 
 ![Smiley World 2](https://user-images.githubusercontent.com/72922203/178102981-05602dc5-4e29-415b-91e5-4600d2b2165e.png)
 
