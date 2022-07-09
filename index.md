@@ -31,9 +31,9 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Medium
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/celinesophie/Konzeption_SoSe22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Info zu Medium
 
 ### Support or Contact
 
