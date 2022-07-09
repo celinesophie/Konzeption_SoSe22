@@ -1,4 +1,4 @@
-## Teste dein Umweltbewusstseinn
+## Teste dein Umweltbewusstsein
 
 ![Smiley World 2](https://user-images.githubusercontent.com/72922203/178102981-05602dc5-4e29-415b-91e5-4600d2b2165e.png)
 
@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projektbeschreibung
 
-Darum gehts
+Darum gehts...
 
 ```markdown
 Syntax highlighted code block
