@@ -40,6 +40,9 @@ Das Projekt wurde Hauptsächlich mit Adobe-Programmen erstellt.
 Das Layout des Quizes wurde mit InDesign entwickelt. Die verschiedensten Objekte innerhalb der Animationen wurden in Illustrator gefertigt und dann mit After Effects animiert. Der Endgültige Schnitt ist dann in Premiere entstanden. 
 (Vielleicht ein Screenshot von After Effects einfügen dazu)
 
+## Drehbuch
+Image
+
 ### Ausblick
 
-Weitere Themen und Videos...
+Das erstelle Video ist nur ein Prototyp, der stellvertretend für das Projekt steht. Würde man das Projekt fortsetzen, können zu allen genannten Themen verschiedene Videos mit Informationen und Tipps erstellt werden, die dann ebenfalls im Schulbuch und der Website zu finden sind.
