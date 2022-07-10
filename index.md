@@ -51,7 +51,6 @@ Hier geht's zur Website: [Teste dein Umweltbewusstsein](https://pages.github.com
 ### Drehbuch
 Image
 
-
 ### Ausblick
 
-Das erstelle Video ist nur ein Prototyp, der stellvertretend für das Projekt steht. Würde man das Projekt fortsetzen, können zu allen genannten Themen verschiedene Videos mit Informationen und Tipps erstellt werden, die dann ebenfalls im Schulbuch und der Website zu finden sind.
+Das erstellte Video ist nur ein Prototyp, der stellvertretend für das Projekt steht. Würde man das Projekt fortsetzen, können zu allen genannten Themen verschiedene Videos mit Informationen und Tipps erstellt werden, die dann ebenfalls im Schulbuch und der Website zu finden sind.
