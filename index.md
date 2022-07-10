@@ -2,7 +2,6 @@
 
 ![Titelbild](https://user-images.githubusercontent.com/72922203/178138961-243137d6-6167-4063-9e87-ff26420120b8.png)
 
-Hier geht's zum Video: [Teste dein Umweltbewusstsein](https://pages.github.com/).
 
 ### Die Hintergründe des Projekts
 
@@ -30,7 +29,7 @@ Wir hoffen, dass durch das Einbinden von digitalen Elementen in einem Schulbuch 
 
 ### Medium
 
-- Quiz in analogen Schulbuch 
+- Quiz in analogem Schulbuch 
 - Website 
 - Animierte Videos
 
@@ -40,8 +39,16 @@ Das Projekt wurde Hauptsächlich mit Adobe-Programmen erstellt.
 Das Layout des Quizzes wurde mit InDesign erstellt. Die verschiedensten Objekte innerhalb der Animationen wurden in Illustrator gefertigt und dann mit After Effects animiert. Der Endgültige Schnitt ist dann in Premiere entstanden. 
 (Vielleicht ein Screenshot von After Effects einfügen dazu)
 
-## Drehbuch
+
+## Das Fertige Projekt
+Hier geht's zum Video: [Teste dein Umweltbewusstsein](https://pages.github.com/).
+
+### Quiz
 Image
+
+### Drehbuch
+Image
+
 
 ### Ausblick
 
