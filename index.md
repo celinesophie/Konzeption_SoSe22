@@ -1,6 +1,7 @@
 ## Teste dein Umweltbewusstsein
 
-![Smiley World 2](https://user-images.githubusercontent.com/72922203/178102981-05602dc5-4e29-415b-91e5-4600d2b2165e.png)
+![Titelbild](https://user-images.githubusercontent.com/72922203/178138961-243137d6-6167-4063-9e87-ff26420120b8.png)
+
 
 ### Projektbeschreibung
 
