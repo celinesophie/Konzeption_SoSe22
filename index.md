@@ -15,3 +15,5 @@ Info zu Medium
 ### Die Hintergründe des Projekts
 
 Kontext: Problembeschreibung, Ziel- und Fragestellung.
+
+###Ideenfindung: Der Weg zur Idee
