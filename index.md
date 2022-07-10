@@ -16,10 +16,10 @@ Info zu Medium
 
 Kontext: Problembeschreibung, Ziel- und Fragestellung.
 
-###Ideenfindung: Der Weg zur Idee
+### Ideenfindung: Der Weg zur Idee
 
 ...
 
-###Ausblick
+### Ausblick
 
 Weitere Themen und Videos...
