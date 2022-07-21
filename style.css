@@ -1,0 +1,73 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* background-color: #f6f7db;*/
+     background: url(blatt.png);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(91, 150, 91);
+    font-size: 50px;
+    /* text-decoration: overline underline; */
+    font-family: "PeachyKeenJF";
+}
+
+h3 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+p {
+    line-height: 25px;
+    padding-left: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+#Typdefinition {
+    background-color: #80bd9e44;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #a1d6e2;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#Typen {
+    background-color: #80bd9e44;
+    border-radius: 10px;
+    width: 640px;
+    height: 100px;
+    padding-top: 3px;
+    margin-left: 280px;
+    margin-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#videotyp {
+    text-align: center;
+}
+
+#wrapper {
+    background-color: rgb(255, 255, 244);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 1300px;
+    width: 1200px;
+    border-radius: 10px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
