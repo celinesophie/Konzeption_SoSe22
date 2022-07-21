@@ -46,7 +46,7 @@ Das Layout des Quizzes wurde mit InDesign erstellt. Die verschiedensten Objekte 
 Image
 
 ### Website
-Hier geht's zur Website: [Teste dein Umweltbewusstsein](https://pages.github.com/).
+Hier geht's zur Website: [Teste dein Umweltbewusstsein](https://github.com/celinesophie/Konzeption_SoSe22.git).
 
 ### Drehbuch
 Image
