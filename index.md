@@ -47,6 +47,7 @@ Image
 
 ### Website
 Hier geht's zur Website: [Teste dein Umweltbewusstsein](https://github.com/celinesophie/Konzeption_SoSe22.git).
+(Zip Datei zum Herunterladen)
 
 ### Drehbuch
 Image
