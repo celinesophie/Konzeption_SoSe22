@@ -43,7 +43,8 @@ Das Layout des Quizzes wurde mit InDesign erstellt. Die verschiedensten Objekte 
 ## Das Fertige Projekt
 
 ### Quiz
-Image
+![Quiz](https://user-images.githubusercontent.com/72922203/180412789-cd1ff137-9085-4749-b579-c02b2950e7c9.png)
+
 
 ### Website
 Hier geht's zur Website: [Teste dein Umweltbewusstsein](https://github.com/celinesophie/Konzeption_SoSe22.git).
