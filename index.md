@@ -42,13 +42,13 @@ Das Layout des Quizzes wurde mit InDesign erstellt. Die verschiedensten Objekte 
 
 ## Das Fertige Projekt
 
-### Quiz
-![Quiz](https://user-images.githubusercontent.com/72922203/180412789-cd1ff137-9085-4749-b579-c02b2950e7c9.png)
+### Quiz im Schulbuch
+![Quiz](https://user-images.githubusercontent.com/72922203/180429027-56c1caf5-c3ce-48fb-9405-6da1e54cd132.png)
 
 
 ### Website
 Hier geht's zur Website: [Teste dein Umweltbewusstsein](https://github.com/celinesophie/Konzeption_SoSe22.git).
-(Zip Datei herunterladen und die Test.html öffnen)
+(Zip Datei über den grünen "Code" Button herunterladen und die Test.html öffnen)
 
 ### Drehbuch für das Video
 [Drehbuch.pdf](https://github.com/celinesophie/Konzeption_SoSe22/files/9167229/Drehbuch.pdf)
