@@ -48,11 +48,10 @@ Das Layout des Quizzes wurde mit InDesign erstellt. Die verschiedensten Objekte 
 
 ### Website
 Hier geht's zur Website: [Teste dein Umweltbewusstsein](https://github.com/celinesophie/Konzeption_SoSe22.git).
-(Zip Datei über den grünen Button "Code" herunterladen und die Test.html öffnen)
+(Zip Datei herunterladen und die Test.html öffnen)
 
-### Drehbuch
+### Drehbuch für das Video
 [Drehbuch.pdf](https://github.com/celinesophie/Konzeption_SoSe22/files/9167229/Drehbuch.pdf)
-
 
 ### Ausblick
 
