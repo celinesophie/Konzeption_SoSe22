@@ -37,7 +37,6 @@ Wir hoffen, dass durch das Einbinden von digitalen Elementen in einem Schulbuch 
 ### Realisierung
 Das Projekt wurde Hauptsächlich mit Adobe-Programmen erstellt. 
 Das Layout des Quizzes wurde mit InDesign erstellt. Die verschiedensten Objekte innerhalb der Animationen wurden in Illustrator gefertigt und dann mit After Effects animiert. Der Endgültige Schnitt ist dann in Premiere entstanden. 
-(Vielleicht ein Screenshot von After Effects einfügen dazu)
 
 
 ## Das Fertige Projekt
